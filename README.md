@@ -1,6 +1,18 @@
 # tips_calculator
-
 A new Flutter project.
+![ss1](https://github.com/zahidx/tips-calculator/assets/94776268/26c6266d-6276-450c-a526-24545e68542a)
+
+
+
+![ss2](https://github.com/zahidx/tips-calculator/assets/94776268/abb373d5-4e8f-4360-afe1-dc9fb678496f)
+
+
+
+
+
+
+
+
 
 ## Getting Started
 
